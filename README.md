@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/9362317/36071274-3b28ce30-0f4f-11e8-8b5d-d6639fc0f5e1.png)
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
